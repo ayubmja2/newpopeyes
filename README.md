@@ -1,6 +1,6 @@
 # This is a Popeyes Clone web Application.
 
-## Developer: Name Ayub Ali.
+## Developer: Ayub Ali.
 
 To Make this very clear: **All Brand Rights belong to Popeyes.inc** I own none of the Brand assets such as **images brand id, Logo and etc**
 
